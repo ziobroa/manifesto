@@ -10,7 +10,7 @@ html {
 
 
 body {
-background: black;
+background: magenta;
 padding: 10vh;
 }
 
@@ -21,4 +21,5 @@ color: white;
 line-height: 20vh;
 text-transform: uppercase;
 font-family: 'Roboto Mono', Helvetica, Arial, sans-serif;
+letter-spacing: 3px;
 }
